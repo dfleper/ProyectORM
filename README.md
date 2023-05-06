@@ -1,5 +1,8 @@
 # ProyectORM
 
+![GitHub watchers](https://img.shields.io/github/watchers/dfleper/ProyectORM?color=blue&label=Vistas&logoColor=blue&style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/ProyectORM?color=blue&label=%C3%BAltimo%20commit&logo=github&logoColor=white)
+
 ![ScreenShot](https://github.com/DomingoFleitas/ProyectORM/blob/main/proyectORM/src/ScreenShot/proyectORM001.png)
 ![ScreenShot](https://github.com/DomingoFleitas/ProyectORM/blob/main/proyectORM/src/ScreenShot/proyectORM002.png)
 ![ScreenShot](https://github.com/DomingoFleitas/ProyectORM/blob/main/proyectORM/src/ScreenShot/proyectORM003.png)
