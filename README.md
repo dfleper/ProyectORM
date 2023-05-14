@@ -1,7 +1,7 @@
 # ProyectORM
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dfleper/ProyectORM?logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/ProyectORM?color=blue&label=%C3%BAltimo%20commit&logo=github&logoColor=white)
+![GitHub last commit](https://img.shields.io/github/last-commit/dfleper/ProyectORM?color=blue&label=last-commit&logo=github&logoColor=white)
 
 ![ScreenShot](https://github.com/DomingoFleitas/ProyectORM/blob/main/proyectORM/src/ScreenShot/proyectORM001.png)
 ![ScreenShot](https://github.com/DomingoFleitas/ProyectORM/blob/main/proyectORM/src/ScreenShot/proyectORM002.png)
